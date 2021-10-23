@@ -282,3 +282,23 @@ footer p {
 }
 
 
+.perfil {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  
+  padding: 20px;
+  text-align: left;
+  align-content: center;
+}
+.perfil img {
+  margin-right: 20px;
+}
+.saltoLinea {
+  display: block;
+}
+section.contacto-form {
+  padding: 50px;
+}
